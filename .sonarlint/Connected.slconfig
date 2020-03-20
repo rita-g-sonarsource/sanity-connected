@@ -1,0 +1,23 @@
+{
+  "ServerUri": "https://sonarcloud.io/",
+  "Organization": {
+    "Key": "rita-gorokhod-sonarsource",
+    "Name": "Rita Gorokhod"
+  },
+  "ProjectKey": "rita-gorokhod-sonarsource_sanity-connected",
+  "ProjectName": "sanity-connected",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXD3UHwtMbJ731asko87",
+      "ProfileTimestamp": "2020-03-17T14:17:33Z"
+    },
+    "C++": {
+      "ProfileKey": "AXD3UHwtMbJ731asko9I",
+      "ProfileTimestamp": "2020-02-25T09:19:12Z"
+    },
+    "C": {
+      "ProfileKey": "AXD3UHwtMbJ731asko9L",
+      "ProfileTimestamp": "2020-02-25T09:19:19Z"
+    }
+  }
+}
