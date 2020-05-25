@@ -1,5 +1,41 @@
 {
   "sonarlint.rules": {
+    "cpp:S3656": {
+      "level": "On",
+      "severity": "Critical"
+    },
+    "cpp:S5782": {
+      "level": "On",
+      "severity": "Blocker"
+    },
+    "cpp:S2486": {
+      "level": "On",
+      "severity": "Minor"
+    },
+    "cpp:S5267": {
+      "level": "On",
+      "severity": "Blocker"
+    },
+    "cpp:S5381": {
+      "level": "On",
+      "severity": "Minor"
+    },
+    "cpp:S814": {
+      "level": "On",
+      "severity": "Major"
+    },
+    "cpp:S4963": {
+      "level": "On",
+      "severity": "Critical"
+    },
+    "cpp:EmptyCompoundStatement": {
+      "level": "On",
+      "severity": "Major"
+    },
+    "cpp:NonEmptyCaseWithoutBreak": {
+      "level": "On",
+      "severity": "Blocker"
+    },
     "cpp:S2589": {
       "level": "On",
       "severity": "Major"
@@ -85,10 +121,6 @@
       "severity": "Major"
     },
     "cpp:S1035": {
-      "level": "On",
-      "severity": "Critical"
-    },
-    "cpp:S2486": {
       "level": "On",
       "severity": "Critical"
     },
@@ -242,10 +274,6 @@
       "level": "On",
       "severity": "Critical"
     },
-    "cpp:NonEmptyCaseWithoutBreak": {
-      "level": "On",
-      "severity": "Blocker"
-    },
     "cpp:S5350": {
       "level": "On",
       "severity": "Minor"
@@ -293,10 +321,6 @@
     "cpp:S1236": {
       "level": "On",
       "severity": "Major"
-    },
-    "cpp:S3656": {
-      "level": "On",
-      "severity": "Critical"
     },
     "cpp:S1235": {
       "level": "On",
@@ -381,10 +405,6 @@
     "cpp:S3949": {
       "level": "On",
       "severity": "Major"
-    },
-    "cpp:S4963": {
-      "level": "On",
-      "severity": "Critical"
     },
     "cpp:ExceptionSpecificationUsage": {
       "level": "On",
@@ -587,10 +607,6 @@
       "level": "On",
       "severity": "Critical"
     },
-    "cpp:S814": {
-      "level": "On",
-      "severity": "Major"
-    },
     "cpp:PPUndefUsage": {
       "level": "On",
       "severity": "Critical"
@@ -743,10 +759,6 @@
       "level": "On",
       "severity": "Major"
     },
-    "cpp:S5267": {
-      "level": "On",
-      "severity": "Blocker"
-    },
     "cpp:S5269": {
       "level": "On",
       "severity": "Major"
@@ -816,10 +828,6 @@
       "severity": "Blocker"
     },
     "common-cpp:DuplicatedBlocks": {
-      "level": "On",
-      "severity": "Major"
-    },
-    "cpp:EmptyCompoundStatement": {
       "level": "On",
       "severity": "Major"
     },
@@ -1117,6 +1125,27 @@
       "level": "On",
       "severity": "Major"
     },
+    "cpp:S5536": {
+      "level": "Off"
+    },
+    "cpp:S1250": {
+      "level": "Off"
+    },
+    "cpp:S1151": {
+      "level": "Off"
+    },
+    "cpp:S920": {
+      "level": "Off"
+    },
+    "cpp:S1704": {
+      "level": "Off"
+    },
+    "cpp:S2807": {
+      "level": "Off"
+    },
+    "cpp:S5318": {
+      "level": "Off"
+    },
     "cpp:S1016": {
       "level": "Off"
     },
@@ -1171,9 +1200,6 @@
     "cpp:S1271": {
       "level": "Off"
     },
-    "cpp:S920": {
-      "level": "Off"
-    },
     "cpp:S5404": {
       "level": "Off"
     },
@@ -1204,9 +1230,6 @@
     "cpp:UsingDirective": {
       "level": "Off"
     },
-    "cpp:S5318": {
-      "level": "Off"
-    },
     "cpp:S100": {
       "level": "Off"
     },
@@ -1232,9 +1255,6 @@
       "level": "Off"
     },
     "cpp:S978": {
-      "level": "Off"
-    },
-    "cpp:S5536": {
       "level": "Off"
     },
     "cpp:S5419": {
@@ -1265,9 +1285,6 @@
       "level": "Off"
     },
     "cpp:GotoUsage": {
-      "level": "Off"
-    },
-    "cpp:S2807": {
       "level": "Off"
     },
     "cpp:S4136": {
@@ -1540,9 +1557,6 @@
     "cpp:S1131": {
       "level": "Off"
     },
-    "cpp:S1151": {
-      "level": "Off"
-    },
     "cpp:S116": {
       "level": "Off"
     },
@@ -1553,9 +1567,6 @@
       "level": "Off"
     },
     "cpp:S1227": {
-      "level": "Off"
-    },
-    "cpp:S1250": {
       "level": "Off"
     },
     "cpp:S1270": {
@@ -1574,9 +1585,6 @@
       "level": "Off"
     },
     "cpp:S1578": {
-      "level": "Off"
-    },
-    "cpp:S1704": {
       "level": "Off"
     },
     "cpp:S1705": {
