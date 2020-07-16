@@ -11,6 +11,10 @@ namespace ConsoleApp1
             set { count = 42; } // 3237 - Noncompliant
         }
 
+        public void doSomething(int param1, int param2, int param3, string param4, long param5, long param6, long param7, long param8)
+        {
+        }
+
         static void Main(string[] args)
         {
 

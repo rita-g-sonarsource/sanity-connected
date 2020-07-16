@@ -4,20 +4,12 @@
     "Key": "rita-gorokhod-sonarsource",
     "Name": "Rita Gorokhod"
   },
-  "ProjectKey": "rita-gorokhod-sonarsource_sanity-connected",
+  "ProjectKey": "rita-g-sonarsource_sanity-connected",
   "ProjectName": "sanity-connected",
   "Profiles": {
     "CSharp": {
-      "ProfileKey": "AXGb8GG5JC8rBoVgjKKB",
-      "ProfileTimestamp": "2020-04-21T08:54:00Z"
-    },
-    "C++": {
-      "ProfileKey": "AXD3UHwtMbJ731asko9I",
-      "ProfileTimestamp": "2020-04-28T12:48:52Z"
-    },
-    "C": {
-      "ProfileKey": "AXD3UHwtMbJ731asko9L",
-      "ProfileTimestamp": "2020-04-28T12:48:59Z"
+      "ProfileKey": "AXD3UHwtMbJ731asko87",
+      "ProfileTimestamp": "2020-06-30T11:25:36Z"
     }
   }
 }

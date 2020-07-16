@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RuleSet Name="SonarQube - sanity-connected Sonar way" ToolsVersion="16.0">
-  <Include Path="..\.sonarlint\rita-gorokhod-sonarsource_sanity-connectedcsharp.ruleset" Action="Default" />
+  <Include Path="..\.sonarlint\rita-g-sonarsource_sanity-connectedcsharp.ruleset" Action="Default" />
 </RuleSet>

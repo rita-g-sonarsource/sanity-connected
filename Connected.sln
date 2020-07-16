@@ -18,6 +18,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Test", "Test.Test\Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSuppressions", "TestSuppressions\TestSuppressions.csproj", "{0755ADF7-EA3A-4E99-B2AA-D41A3968EFF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VulnerabulitiesPOC", "VulnerabulitiesPOC\VulnerabulitiesPOC.csproj", "{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,18 @@ Global
 		{0755ADF7-EA3A-4E99-B2AA-D41A3968EFF0}.Release|x64.Build.0 = Release|Any CPU
 		{0755ADF7-EA3A-4E99-B2AA-D41A3968EFF0}.Release|x86.ActiveCfg = Release|Any CPU
 		{0755ADF7-EA3A-4E99-B2AA-D41A3968EFF0}.Release|x86.Build.0 = Release|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Debug|x86.Build.0 = Debug|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Release|x64.Build.0 = Release|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Release|x86.ActiveCfg = Release|Any CPU
+		{3A8C1570-1194-428E-AEE8-D39BAA04C7EB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
